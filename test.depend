@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1716092446 source:e:\sdl\test\main.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Pacman.h"
+
+1716092873 e:\sdl\test\pacman.h
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Map.h"
+	"Enemy.h"
+	"Back.h"
+
+1716091725 e:\sdl\test\map.h
+	"nxt.h"
+	"bits/stdc++.h"
+
+1716092177 e:\sdl\test\enemy.h
+	"SDL.h"
+	"SDL_image.h"
+	"iostream"
+	"string"
+	"Map.h"
+
+1710575268 e:\sdl\test\nxt.h
+
+1716092367 e:\sdl\test\back.h
+	<SDL.h>
+	<SDL_image.h>
+	"Map.h"
+	"iostream"
+
